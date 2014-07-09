@@ -9,3 +9,4 @@ project_page 'http://github.com/puppetlabs/puppetlabs-ntp'
 
 ## Add dependencies, if any:
 dependency 'puppetlabs/stdlib', '>= 4.0.0'
+dependency 'puppetlabs/registry', '>= 1.0.1'
